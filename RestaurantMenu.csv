@@ -1,0 +1,69 @@
+,CATEGORY,ITEM,CALORIES,TYPE,PRICE,ID
+0,STARTER,Dynamite shrimp,770.0,Vegetarian,74,1
+1,STARTER,Halloumi fries,530.0,Vegetarian,48,2
+2,STARTER,Baked eggplant,270.0,Vegan,36,3
+3,STARTER,Fish cake,480.0,Vegetarian,60,4
+4,STARTER,Lentil soup,290.0,Vegan,26,5
+5,STARTER,Chicken soup,280.0,Regular,32,6
+6,STARTER,Lamb samosa,650.0,Regular,52,7
+7,STARTER,Kale salad,280.0,Vegan,38,8
+8,STARTER,Quinoa salad,320.0,Vegan,36,9
+9,STARTER,Burrata salad,360.0,Vegetarian,65,10
+10,STARTER,Shredded beef salad,520.0,Regular,52,11
+11,STARTER,Hummus and bread,620.0,Vegan,28,12
+12,MAIN COURSE,Margarita Pizza,740.0,Vegetarian,35,13
+13,MAIN COURSE,Veggie Pizzas,850.0,Vegan,45,14
+14,MAIN COURSE,Pepperoni Pizza,1100.0,Regular,40,15
+15,MAIN COURSE,Fish & Chips,2000.0,Regular,100,16
+16,MAIN COURSE,Fried Shrimp,2050.0,Regular,103,17
+17,MAIN COURSE,Grilled Salmon,1130.0,Regular,124,18
+18,MAIN COURSE,Classic Burger,1360.0,Regular,84,19
+19,MAIN COURSE,Mushroom Burger,1490.0,Regular,76,20
+20,MAIN COURSE,Veggie Burger,1140.0,Vegan,35,21
+21,MAIN COURSE,Grilled Chicken Sandwich,1200.0,Regular,84,22
+22,MAIN COURSE,Chicken Parmesan Sandwich,2050.0,Regular,87,23
+23,MAIN COURSE,Tomato Basil Pasta,1460.0,Vegan,59,24
+24,MAIN COURSE,Fettuccini Alfredo,1990.0,Vegetarian,65,25
+25,MAIN COURSE,Spaghetti with Meatballs,1650.0,Regular,85,26
+26,MAIN COURSE,Four Cheese Pasta,1240.0,Vegetarian,65,27
+27,MAIN COURSE,Grilled Rib Eye Steak,1300.0,Regular,130,28
+28,MAIN COURSE,Vegetable Biryani,1240.0,Vegetarian,47,29
+29,MAIN COURSE,Biryani Rice,1350.0,Vegan,25,30
+30,DESSERT,Chocolate Fondant,587.0,Vegetarian,45,31
+31,DESSERT,Date Pudding,322.0,Vegetarian,38,32
+32,DESSERT,Coconut Crunch,896.0,Vegetarian,46,33
+33,DESSERT,Mango & Passion Fruit Crmeux,498.0,Vegetarian,34,34
+34,DESSERT,Carrot Cake,290.0,Vegetarian,26,35
+35,DESSERT,Salted Caramel & Pecan Pie,880.0,Vegetarian,32,36
+36,DESSERT,Almond Delight,509.0,Vegan,42,37
+37,DESSERT,Coconut and almond vanilla tart,320.0,Vegan,45,38
+38,DESSERT,Cashew Apple pie,920.0,Vegan,40,39
+39,DESSERT,Vegan coconut ice cream,520.0,Vegan,25,40
+40,DESSERT,Assorted fruits platter,238.0,Vegan,22,41
+41,DESSERT,Vegan chocolate cake,829.0,Vegan,28,42
+42,DESSERT,Chocolate Brownie,580.0,Vegetarian,57,43
+43,DESSERT,Millefeuille,296.0,Vegetarian,52,44
+44,DESSERT,Classic Cheesecake,798.0,Vegetarian,64,45
+45,DESSERT,Almond pistachio croissant,533.0,Vegan,52,46
+46,DESSERT,Signature Apricot almond tart,334.0,Vegan,68,47
+47,DESSERT,Almond Pistachio Pie,940.0,Vegan,56,48
+48,HOT DRINK,Americano,15.0,Vegan,18,49
+49,HOT DRINK,Espresso,9.0,Vegan,13,50
+50,HOT DRINK,Cappuccino,120.0,Vegetarian,19,51
+51,HOT DRINK,Cafe Latte,190.0,Vegetarian,19,52
+52,HOT DRINK,Macchiato,250.0,Vegetarian,20,53
+53,HOT DRINK,Black tea,0.0,Vegan,15,54
+54,HOT DRINK,Green tea,0.0,Vegan,15,55
+55,HOT DRINK,Hot Chocolate,350.0,Vegetarian,21,56
+56,COLD DRINK,Pepsi,120.0,Vegan,10,57
+57,COLD DRINK,Diet Pepsi,0.0,Vegan,10,58
+58,COLD DRINK,7up,120.0,Vegan,10,59
+59,COLD DRINK,Mirinda,90.0,Vegan,10,60
+60,COLD DRINK,Orange Juice,130.0,Vegan,16,61
+61,COLD DRINK,Strawberry milkshake,210.0,Vegetarian,20,62
+62,COLD DRINK,Tropical Juice,340.0,Vegan,25,63
+63,COLD DRINK,Ice Latte,160.0,Vegetarian,18,64
+64,COLD DRINK,Large Water,0.0,Vegan,10,65
+65,COLD DRINK,Small Water,0.0,Vegan,10,66
+66,COLD DRINK,Raspberry Mojito,129.4,Vegan,28,67
+67,COLD DRINK,Blueberry Mojito,136.0,Vegan,30,68
